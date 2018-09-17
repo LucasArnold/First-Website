@@ -1,0 +1,15 @@
+{
+  "name": "lucasnpm",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lucas",
+  "license": "ISC",
+  "description": "first npm build ",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
