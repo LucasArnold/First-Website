@@ -1,27 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
-
-
-
-
-
-
-
-
-
-
-/*---Media Queries --*/
-@media (max-width: 992px) {
-
-  }
-@media (max-width: 768px) {
-  
-}
-@media (max-width: 576px) {
-  
-}
-
-
 /*---Firefox Bug Fix --*/
 .carousel-item {
   transition: -webkit-transform 0.5s ease;
@@ -64,8 +42,23 @@ figure {
     padding: 1rem;
 }
 
-
-
+/*---Media Queries --*/
+@media (max-width: 992px) {
+}
+@media (max-width: 768px) {
+   #slides {
+     height: 0px;
+     width: 0px; 
+  }
+  figure {
+    height: 0px;
+    width: 0px;
+  }
+  
+}
+@media (max-width: 576px) {
+  
+}
 
 
 /*

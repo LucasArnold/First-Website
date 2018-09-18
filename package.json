@@ -11,5 +11,13 @@
   "description": "first npm build ",
   "dependencies": {
     "express": "^4.16.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasArnold/First-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LucasArnold/First-Website/issues"
+  },
+  "homepage": "https://github.com/LucasArnold/First-Website#readme"
 }
